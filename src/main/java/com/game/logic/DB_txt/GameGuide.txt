@@ -1,0 +1,76 @@
+======================================================INTRO=============================================================
+
+                         Welcome to "War Of Bojongsantos" turn based rpg text-based game
+                                this game is designed to be played strategically
+                            you can choose 'vs Player mode' or 'vs COM mode' on this game
+                There are several rules and knowledges you have to follow up, look at the below text!
+
+====================================================HEROES TYPE=========================================================
+
+1. Warrior Type
+   * Speciality : The Best Damage Dealer
+   * Actions    : - Slash Opponent     : dealing big damage to opponent specifically.
+                  - Slash All Opponent : dealing a fair and distributed damage to all opponents.
+2. Support Type
+   * Speciality : Healing Teammates
+   * Actions    : - Attack Opponent    : dealing damage to an opponent specifically.
+                  - Healing Teammate   : healing teammate specifically, with healing power equals to its current attack.
+                  - Healing a Whole Teammates : healing all teammates with fair and distributed healing power.
+                  - NOTES : (healing power == support's current DMG).
+3. Tank Type
+   * Speciality : Protecting Teammates
+   * Actions    : - Slash Opponent     : dealing damage to opponent specifically.
+                  - Protect Teammate   : protecting teammate specifically by sharing  its  half    defence
+                                         power, it causes the tank losing his half defense. its    defence
+                                         power would be back normal if an enemy has attacked the protected
+                                         teammate.
+                  - Protect a Whole Teammates : protecting all teammates by sharing its distributed defense power fairly.
+                  - NOTES : if the protected one is attacked, the protected one's defense will be back to base defense.
+                            , then the protected one surplus defense will be back to the tank.
+4. Buffer Type
+   * Speciality : Buffing a hero's DMG (increasing & decreasing)
+   * Actions    : - Attack Opponent : dealing damage to opponent specifically.
+                  - Increase Teammate's DMG : increasing teammate's damage for randomly damage power (6-11 DMG power).
+                  - Decreasing Teammate's DMG : decreasing opponent's damage for randomly damage power (6-11 DMG power).
+                  - NOTES : you can only use the two last skills for 5 times only.
+5. Toxicologist/Poisoner Type
+   * Speciality : Using poison to break opponent's defense power and Being Poison Mode
+   * Actions    : - Attack Opponent  : dealing damage to opponent specifically.
+                  - Poison Mode      : whoever attacks Toxicologist when it is using poison mode, they will get hit by
+                                       its poison for (Toxicologist current damage - attacker current defense).
+                  - Defend Decreaser : whoever gets attacked with poison defend decreaser, the attacker's defense will
+                                       decrease for (Toxicologist current damage).
+                  - NOTES : you can only use the 2nd skill for 5 times only.
+
+=================================================BATTLE SPELL===========================================================
+
+1. Meteor-Rain
+   * Speciality : AoE damage.
+   * Action     : Metor-Rain Attacks a whole Opponents with 60 DMG power divided by amout of opponent members.
+
+2. Thunder-Strike
+   * Speciality : Specific and Critical damage.
+   * Actions    : Thunder strikes opponent with 30 DMG power.
+
+3. Vampiric-Touch
+   * Speciality : Attack and Reward.
+   * Actions    : Vampiric-Touch lets you to take opponent's HP and give it to your hero.
+
+4. Life-Switcher
+   * Speciality : Sacrifice.
+   * Actions    : It lets you to switch the life between your two heroes with some terms.
+   * Terms      : it works iff the one giving its life has larger currentHealth and baseHealth than the receiver one.
+
+==================================================PUNISHMENT============================================================
+
+    either accidentally or intentionally insert a wrong number in the gameplay will get punishment by skipping the turn
+                                    , so the turn will be given to the next player.
+
+==================================================SUGGESTION============================================================
+
+                                    Play it on your CMD for the best game experience !
+
+========================================================================================================================
+Creator:@Wibotron.ai
+
+
