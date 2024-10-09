@@ -8,14 +8,15 @@ vs Player mode, vs COM mode, fair turn, great type of heroes, and unique battle 
 - Undestanding of OOP concept is a must if you want to learn how the code works
 
 ## USAGE 
-1. type "maven compile" to build the project
-2. type "maven package" to build the jar package
+1. type "mvn compile" to build the project
+2. type "mvn clean package" to build the jar package
 3. In order to run the project, type "java -jar (jar-name).jar"
 
 ## DEVELOPER IDENTITY
 - email     : achmadbai212@gmail.com || achmadbaihaqie9@gmail.com
 - Instagram : @a_baihaqie_w
 - Linkedin  : www.linkedin.com/in/baihaqie-achmad-5028b2284
+- Medium    : https://medium.com/@achmadbaihaqie9 
 - You can remember me as "Mr. Wibotron" or "Baihaqie"
 
 ## HOPES 
